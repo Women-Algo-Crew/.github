@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/42349041/229355232-dfb21015-6bc3-4f0f-b4bb-c1e4a0d73636.png)
-
 # Welcome to Women Algo Crew 🙋‍♀️
 
 A community of people to learn & collaborate to solve problems through data structures and be better Software Engineers.
