@@ -1,6 +1,6 @@
 # Welcome to Women Algo Crew 🙋‍♀️
 
-A community of people to learn & collaborate to solve problems through data structures and be better Software Engineers.
+We are a community of people to learn & collaborate to solve problems through data structures and be a better Software Engineer. We host reading sessions, DSA problem solving sessions and DSA learning sessions regularly on our Discord server. 
 
 ## How to join?
 - For Females/others
