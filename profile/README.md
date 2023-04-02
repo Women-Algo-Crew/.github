@@ -21,4 +21,4 @@ We are a community of people to learn & collaborate to solve problems through da
     
 ## The ongoing DSA sessions:
 We host DSA learning sessions on Tuesday, Thursday, Saturday (TTS) where our team member Muskan teaches us and we discuss DSA from scratch to advanced. 
-Here's the [link](https://women-algo-crew.notion.site/01-04-23-c91b1fa14ce043899765cca91b9f7ac8) to the running notes of those sessions.
+Here's the link to the [running notes](https://women-algo-crew.notion.site/01-04-23-c91b1fa14ce043899765cca91b9f7ac8) of those sessions.
